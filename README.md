@@ -43,8 +43,8 @@ Para este reto, Tu Consulta Laboral quiere que les ayuden a:
  ## 5. Autores :yellow_heart: :black_heart:
  Team : ANTROPOCÉNTRICA :woman_artist:
  * **Milusca Vega**
- * **Mayra Perez** 
- * **Siannet **
+ * **Mayra Pérez** 
+ * **Siannet Flores**
 
  
  
