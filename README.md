@@ -5,7 +5,7 @@ ___
  * [2. Resumen del Proyecto](#2-resumen-del-proyecto)
  * [3. Desarrollo del Proyecto](#3-desarrollo-del-proyecto)
  * [4. Contenido de referencia](#4-contenido-de-referencia)
- * [5. Autores](#5-autores)
+ * [5. Autoras](#5-autoras)
  
   
  ## 1. Preámbulo :loudspeaker:
@@ -40,7 +40,7 @@ Para este reto, Tu Consulta Laboral quiere que les ayuden a:
  ### DEFINIR :dart:
  
  
- ## 5. Autores :yellow_heart: :black_heart:
+ ## 5. Autoras :yellow_heart: :black_heart:
  Team : ANTROPOCÉNTRICA :woman_artist:
  * **Milusca Vega**
  * **Mayra Pérez** 
