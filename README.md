@@ -14,7 +14,7 @@ ___
 
 Como compradores, no solemos ser conscientes del ‘viaje’ que suele pasar un producto o servicio antes de que lo adquiramos. Y tampoco de nuestro proceso de toma de decisión para comprar/adquirir un producto o servicio. Del lado de negocio, en los últimos años, no sólo se ha vuelto imprescindible revisar que ese viaje esté centrado en los usuarios. Sino que, con la pandemia, los comportamientos y prioridades de compra han cambiado y con ello se vuelve necesario repensar e innovar la forma cómo llegamos a nuestros usuarios y potenciales nuevos usuarios.
 
-![tu_consulta](https://ssw-live.s3.amazonaws.com/company/77288/wCTAwnmcqM2EH38vLRAUCN.png)
+![tu_consulta](https://tuconsultalaboral.pe/images/logo3.png)
  
  ## 2. Resumen del Proyecto :clipboard:
  
