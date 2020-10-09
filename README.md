@@ -14,7 +14,6 @@ ___
 
 Como compradores, no solemos ser conscientes del ‘viaje’ que suele pasar un producto o servicio antes de que lo adquiramos. Y tampoco de nuestro proceso de toma de decisión para comprar/adquirir un producto o servicio. Del lado de negocio, en los últimos años, no sólo se ha vuelto imprescindible revisar que ese viaje esté centrado en los usuarios. Sino que, con la pandemia, los comportamientos y prioridades de compra han cambiado y con ello se vuelve necesario repensar e innovar la forma cómo llegamos a nuestros usuarios y potenciales nuevos usuarios.
 
-![out](https://www.partnerscom.com.br/wp-content/uploads/2020/05/shutterstock_1720999027-scaled.jpg)
  
  ## 2. Resumen del Proyecto :clipboard:
  
